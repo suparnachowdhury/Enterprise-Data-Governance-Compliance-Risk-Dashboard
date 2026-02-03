@@ -88,6 +88,13 @@ Clear investment signals emerge:
 -  Governance investments should be **sequenced**, not evenly distributed
 
 ---
+## 📊 Live Dashboard
+
+[![Power BI Dashboard Preview](screenshots/dashboard_overview.png)]
+(https://app.powerbi.com/view?r=YOUR_EMBED_LINK)
+
+
+---
 
 ##  Key Regulatory Insight: The GDPR Concentration Problem
 
