@@ -11,7 +11,7 @@ Using **5500 governance audit records**, this project reframes compliance from p
 
 ---
 
-## 🚩 Problem Statement
+##  Problem Statement
 
 Most data governance dashboards fail at the executive level.
 
@@ -28,7 +28,7 @@ This project addresses that gap by translating governance performance into **reg
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Quantify **regulatory and compliance risk in financial terms**
 - Identify **structural drivers of non-compliance**
@@ -37,7 +37,7 @@ This project addresses that gap by translating governance performance into **reg
 
 ---
 
-## 🧠 Solution Overview: The Three-Act Dashboard Framework
+##  Solution Overview: The Three-Act Dashboard Framework
 
 ### **Act 1 — Establish the Baseline: How Exposed Are We?**
 
@@ -89,7 +89,7 @@ Clear investment signals emerge:
 
 ---
 
-## 🔍 Key Regulatory Insight: The GDPR Concentration Problem
+##  Key Regulatory Insight: The GDPR Concentration Problem
 
 Audit findings revealed:
 
@@ -102,7 +102,7 @@ Improving governance maturity and data quality in **HR and IT** delivers the hig
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Power BI** – Dashboard design & storytelling
 - **DAX** – Risk scoring, financial exposure modeling
@@ -111,7 +111,7 @@ Improving governance maturity and data quality in **HR and IT** delivers the hig
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 ├── data/
