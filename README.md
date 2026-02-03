@@ -91,7 +91,7 @@ Clear investment signals emerge:
 ## 📊 Live Dashboard
 
 [![Power BI Dashboard Preview](screenshots/dashboard_overview.png)]
-([https://app.powerbi.com/view?r=](https://app.powerbi.com/view?r=eyJrIjoiMjc5NzMzOTctY2ZkYS00MWI2LWE0MmYtZTY0ODA0N2ZhNmFkIiwidCI6ImRiMjMwNmZkLWFmMjUtNGUyOS05Y2NiLWJmMjg2YWY2MjFjMCJ9))
+(Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjc5NzMzOTctY2ZkYS00MWI2LWE0MmYtZTY0ODA0N2ZhNmFkIiwidCI6ImRiMjMwNmZkLWFmMjUtNGUyOS05Y2NiLWJmMjg2YWY2MjFjMCJ9))
 
 
 ---
